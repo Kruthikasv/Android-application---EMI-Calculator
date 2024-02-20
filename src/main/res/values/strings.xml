@@ -1,0 +1,109 @@
+<resources>
+    <string name="login">LOGIN</string>
+    <string name="signup">SIGNUP</string>
+    <string name="app_name">Budget Manager</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login_alert">Already a user ? </string>
+
+    <string name="signup_alert">New here? </string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="income">Income</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_income">INCOME</string>
+    <string name="nav_savings">Savings</string>
+    <string name="nav_expenses">EXPENSES</string>
+    <string name="nav_budget">BUDGET</string>
+    <string name="nav_logout">Logout</string>
+    <string name="emi_btn">Calculate EMI</string>
+    <string name="fab_content_desc">+</string>
+    <string name="thar">Mahindra Thar</string>
+    <string name="thar_model">Model : AX Opt 4-str</string>
+    <string name="thar_fuel">DIESEL</string>
+    <string name="thar_price">Price : 1634937 </string>
+
+    <string name="creta">Hyundai Creta</string>
+    <string name="creta_model">Model : SX Opt Turbo</string>
+    <string name="creta_fuel">PETROL</string>
+    <string name="creta_price">Price : 2201087 </string>
+
+    <string name="harrier">Tata Harrier</string>
+    <string name="harrier_model">Model : XZA Plus Dual Tone AT</string>
+    <string name="harrier_fuel">DIESEL</string>
+    <string name="harrier_price">Price : 2630000 </string>
+
+    <string name="nexon">Tata Nexon</string>
+    <string name="nexon_model">Model : XZA Plus(0) Dark Edition</string>
+    <string name="nexon_fuel">DIESEL</string>
+    <string name="nexon_price">Price : 1647000</string>
+
+    <string name="fortuner">Toyota Fortuner</string>
+    <string name="fortuner_model">Model : Legender</string>
+    <string name="fortuner_fuel">DIESEL</string>
+    <string name="fortuner_price">Price : 4802000 </string>
+
+    <string name="apple_air">Apple Macbook Air M1</string>
+    <string name="apple_air_spec">RAM/Storage : 8GB | 256GB SSD</string>
+    <string name="apple_air_price">Price : 85990 </string>
+
+    <string name="apple_os">Mac OS Big Sur </string>
+
+    <string name="apple_pro">Apple Macbook Pro M1</string>
+    <string name="apple_pro_spec">RAM/Storage : 8GB | 256GB SSD</string>
+    <string name="apple_pro_price">Price : 112990 </string>
+    <string name="os">Windows 10 HOME </string>
+
+    <string name="nokia">Nokia PureBook X14</string>
+    <string name="nokia_spec1">RAM/Storage : 8GB | 512GB SSD</string>
+    <string name="nokia_spec2">Processor : Core i5 10th Generation</string>
+    <string name="nokia_price">Price : 49940 </string>
+
+    <string name="dell">Dell XPS 13</string>
+    <string name="dell_spec1">RAM/Storage : 16GB | 512GB SSD</string>
+    <string name="dell_spec2">Processor : Core i7 8th Generation</string>
+    <string name="dell_price">Price : 114990 </string>
+
+    <string name="hp">HP Pavillion</string>
+    <string name="hp_spec1">RAM/Storage : 16GB | 1TB SSD</string>
+    <string name="hp_spec2">Processor : Core i7 h Generation</string>
+    <string name="hp_price">Price : 844990 </string>
+
+    <string name="apple_iphone">Apple Iphone XR</string>
+    <string name="apple_iphone_spec">Storage : 64GB </string>
+    <string name="apple_iphone_price">Price : 37999 </string>
+    <string name="samsung">Samsung Galaxy S20 FE</string>
+    <string name="samsung_spec">RAM/Storage : 8GB | 128GB </string>
+    <string name="samsung_price">Price : 37999 </string>
+    <string name="google">Google Pixel 3A</string>
+    <string name="google_spec">RAM/Storage : 4GB | 64GB </string>
+    <string name="google_price">Price : 39999 </string>
+    <string name="asus">ASUS ROG Phone3</string>
+    <string name="asus_spec">RAM/Storage : 8GB | 128GB </string>
+    <string name="asus_price">Price : 39999 </string>
+    <string name="vivo">Vivo X21</string>
+    <string name="vivo_spec">RAM/Storage : 6GB | 128GB </string>
+    <string name="vivo_price">Price : 36299 </string>
+
+
+
+    <string name="heading">EMI Calculator</string>
+    <string name="princ">Principal Amount :  </string>
+    <string name="down">Down Payment :  </string>
+    <string name="bank">Rate of Interest : </string>
+    <string name="interest">Select Bank :  </string>
+    <string name="term">Loan Term in months :</string>
+    <string name="calc">Calculate</string>
+    <string name="banks">SBI - 5% "\n"Bank of Baroda - 6.2% "\n"Axis Bank - 5.3% "\n" RBL - 6%"\n"Citi Bank - 4.5% "\n"ICICI Bank - 5.25%"\n"Central Bank of India - 4.75%
+            </string>
+
+
+</resources>
